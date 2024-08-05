@@ -1,2 +1,2 @@
 @echo off
-shutdown /s /t 120
+shutdown /s /t 120 -c "asd"
